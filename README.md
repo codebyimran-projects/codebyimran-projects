@@ -1,0 +1,86 @@
+<h1 align="center">Hi 👋, I'm Muhammad Imran</h1>
+
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnnajichimuanya.hashnode.dev%2Fjava-for-beginners&psig=AOvVaw1YCGy1bLdKBfQVGGcpjzEZ&ust=1747853256543000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD8lvbaso0DFQAAAAAdAAAAABAK" />
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate **Full Stack Developer** with a deep love for clean code, performance, and elegant design.  
+I specialize in building dynamic and responsive web & mobile applications with modern technologies.
+
+---
+
+## 🛠️ Skills & Tools
+
+| Frontend               | Backend                 | Database           | Tools & Platforms             |
+|------------------------|-------------------------|--------------------|-------------------------------|
+| HTML5, CSS3            | PHP, ASP Dot Net        | SQL / SQL Server   | Git, GitHub                   |
+| JavaScript (ES6+)      |                         |                    | SEO, REST APIs                |
+| Angular                |                         |                    | Flutter, Firebase             |
+| React.js               |                         |                    | Dark Mode / UI Design         |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammadimran&show_icons=true&theme=radical&count_private=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadimran&theme=radical" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammadimran" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://wa.me/yourwhatsapplink" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+- Flutter & Dart for Cross-Platform Apps
+- Advanced React & Custom Hooks
+- Angular 15+
+- Backend API Optimization
+- SEO + Web Accessibility
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=muhammadimran&style=flat-square&color=brightgreen)
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadimran&theme=darkhub&no-bg=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="250" />
+</p>
+
+---
+
+### 🔥 Thanks for visiting my profile! Feel free to connect and collaborate! 🚀
