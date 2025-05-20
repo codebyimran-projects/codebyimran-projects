@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Imran</h1>
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnnajichimuanya.hashnode.dev%2Fjava-for-beginners&psig=AOvVaw1YCGy1bLdKBfQVGGcpjzEZ&ust=1747853256543000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD8lvbaso0DFQAAAAAdAAAAABAK" />
-</p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
