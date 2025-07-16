@@ -48,12 +48,12 @@ I specialize in building dynamic and responsive web & mobile applications with m
   <a href="https://wa.me/923703027584" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:muhammadimran27584@gmail.com" target="_blank">
+<!--   <a href="mailto:muhammadimran27584@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://youtube.com/@imrandevtutorials?si=Ufe8BGFubNZOrttJ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
 
