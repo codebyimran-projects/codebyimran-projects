@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Imran</h1>
-
+# 🚀 **Muhammad Imran** - Full Stack Developer
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -7,80 +6,90 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me  
+I'm a passionate **Full Stack Developer** specializing in crafting high-performance web and mobile applications with clean code and elegant design. My expertise spans modern JavaScript frameworks, cross-platform development, and API optimization.
 
-I'm a passionate **Full Stack Developer** with a deep love for clean code, performance, and elegant design.  
-I specialize in building dynamic and responsive web & mobile applications with modern technologies.
-
----
-
-## 🛠️ Skills & Tools
-
-| Frontend               | Backend                 | Database           | Tools & Platforms             |
-|------------------------|-------------------------|--------------------|-------------------------------|
-| HTML5, CSS3            | PHP, ASP Dot Net        | SQL / SQL Server   | Git, GitHub                   |
-| JavaScript (ES6+)      |                         |                    | SEO, REST APIs                |
-| Angular                |                         |                    | Flutter, Firebase             |
-| React.js               |                         |                    | Dark Mode / UI Design         |
+**Specialized in**:  
+✨ React.js • Angular • Flutter • Firebase • REST APIs  
+✨ Responsive UI/UX • Performance Optimization • SEO  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack  
+
+### **Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Backend & Mobile**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### **Databases & Tools**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-0?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammadimran&show_icons=true&theme=radical&count_private=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadimran&theme=radical" />
+  <a href="https://github.com/muhammadimran">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadimran&show_icons=true&theme=radical&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadimran&layout=compact&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadimran&theme=radical" />
 </div>
 
 ---
 
-## 📫 Let's Connect
+## 🌱 Currently Mastering  
+- 🔥 **Advanced React Hooks & Performance**  
+- 📱 **Flutter State Management (Bloc/Riverpod)**  
+- ⚡ **Backend API Optimization**  
+- 🔍 **SEO + Web Accessibility**  
+- 🎨 **UI/UX Design Systems**  
+
+---
+
+## 🤝 Let's Connect  
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/muhammad-imran-5a9083250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-imran-5a9083250">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/muhammadimran_6006?igsh=eHoyeWZtNXh3bXJj" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/1DbeJwr63g/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://wa.me/923703027584" target="_blank">
+  <a href="https://wa.me/923703027584">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<!--   <a href="mailto:muhammadimran27584@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/muhammadimran_6006">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@imrandevtutorials?si=Ufe8BGFubNZOrttJ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a> -->
+  <a href="https://www.facebook.com/share/1DbeJwr63g/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </div>
 
-
 ---
 
-## 🧠 Currently Learning
+## 🏆 GitHub Trophies  
 
-- Flutter & Dart for Cross-Platform Apps
-- Advanced React & Custom Hooks
-- Angular 15+
-- Backend API Optimization
-- SEO + Web Accessibility
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=muhammadimran&style=flat-square&color=brightgreen)
-
----
-
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=muhammadimran&theme=darkhub&no-bg=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="250" />
-</p>
+</div>
 
 ---
 
-### 🔥 Thanks for visiting my profile! Feel free to connect and collaborate! 🚀
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadimran&style=flat-square&color=brightgreen" />  
+  <p>⚡ Thanks for visiting! Let's build something amazing together!</p>
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200" />
+</div>
