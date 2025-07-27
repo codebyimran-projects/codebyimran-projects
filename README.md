@@ -1,19 +1,11 @@
 # 🚀 **Muhammad Imran** - Full Stack Developer
+<div align="center"> <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500" /> </div>
+🚀 Professional Profile
+I architect and develop high-performance web/mobile applications with clean, maintainable code and intuitive user experiences. Passionate about optimizing both frontend performance and backend efficiency while staying current with cutting-edge technologies.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
-
----
-
-## 👨‍💻 About Me  
-I'm a passionate **Full Stack Developer** specializing in crafting high-performance web and mobile applications with clean code and elegant design. My expertise spans modern JavaScript frameworks, cross-platform development, and API optimization.
-
-**Specialized in**:  
-✨ React.js • Angular • Flutter • Firebase • REST APIs  
-✨ Responsive UI/UX • Performance Optimization • SEO  
-
----
+🛠️ Tech Stack
+Core Technologies
+<div align="center"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" /> </div>
 
 ## 🛠️ Tech Stack  
 
