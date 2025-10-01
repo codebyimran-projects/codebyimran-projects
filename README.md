@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" alt="Coding animation" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHKBNn-8dXuSQ/profile-displaybackgroundimage-shrink_350_1400/B4DZgdpSOKHwAc-/0/1752844019430?e=1762387200&v=beta&t=J_xIkfORVIFVE3o_sRg1RR_KJHC85mCMY_fNdgTnxMI" width="500" alt="Coding animation" />
 </div>
 
 <h1 align="center">🚀 Muhammad Imran</h1>
