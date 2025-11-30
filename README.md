@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Coding Banner](https://media.licdn.com/dms/image/v2/D4D16AQHKBNn-8dXuSQ/profile-displaybackgroundimage-shrink_350_1400/B4DZgdpSOKHwAc-/0/1752844019430?e=1764201600&v=beta&t=z3fWNae5_mB_EtfcMhUvwCq0zOe9IXz04a6S3a26lC8)
+![Coding Banner](https://media.licdn.com/dms/image/v2/D4D16AQHKBNn-8dXuSQ/profile-displaybackgroundimage-shrink_350_1400/B4DZgdpSOKHwAc-/0/1752844019430?e=1766016000&v=beta&t=dkhHTfCNGylKkF8YkRj4j5FstSmo5omqahV-5aSictM)
 
 ## Full Stack Developer | React Specialist | Data Enthusiast | Freelance Web Engineer
 
