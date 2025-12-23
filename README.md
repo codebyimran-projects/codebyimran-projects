@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Coding Banner](https://media.licdn.com/dms/image/v2/D4D16AQHKBNn-8dXuSQ/profile-displaybackgroundimage-shrink_350_1400/B4DZgdpSOKHwAc-/0/1752844019430?e=1766016000&v=beta&t=dkhHTfCNGylKkF8YkRj4j5FstSmo5omqahV-5aSictM)
+![Coding Banner](https://media.licdn.com/dms/image/v2/D4D16AQHKBNn-8dXuSQ/profile-displaybackgroundimage-shrink_350_1400/B4DZgdpSOKHwAc-/0/1752844019430?e=1767830400&v=beta&t=Zz0Ju6gloIOTSMOOjs5-ojezFpaTpr61-9UElnIjTuQ)
 
 ## Full Stack Developer | React Specialist | Data Enthusiast | Freelance Web Engineer
 
@@ -55,18 +55,6 @@ My expertise spans the entire development stack, from crafting engaging front-en
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/codebyimran">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=codebyimran&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&border_color=444&title_color=58a6ff&icon_color=79c0ff" alt="GitHub Stats" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyimran&layout=compact&theme=dark&bg_color=0d1117&border_color=444&title_color=58a6ff" alt="Top Languages" />
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyimran&theme=dark&background=0d1117&border=444&ring=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 ## Technical Skills Overview
 
 | Category | Technologies |
@@ -88,14 +76,6 @@ My expertise spans the entire development stack, from crafting engaging front-en
 - Enhancing data analysis skills with Python, Pandas, and NumPy
 - Implementing performance optimization and cloud deployment strategies
 - Building responsive and accessible user interfaces
-
----
-
-## GitHub Recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebyimran&theme=onedark&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
-</div>
 
 ---
 
