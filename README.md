@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Coding Banner]()
+![Coding Banner](https://media.licdn.com/dms/image/v2/D4D16AQHKBNn-8dXuSQ/profile-displaybackgroundimage-shrink_350_1400/B4DZgdpSOKHwAc-/0/1752844019430?e=1767830400&v=beta&t=Zz0Ju6gloIOTSMOOjs5-ojezFpaTpr61-9UElnIjTuQ)
 
 ## Full Stack Developer | React Specialist | Data Enthusiast | Freelance Web Engineer
 
