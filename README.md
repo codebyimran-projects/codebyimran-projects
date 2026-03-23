@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Coding Banner](https://media.licdn.com/dms/image/v2/D4D16AQHKBNn-8dXuSQ/profile-displaybackgroundimage-shrink_200_800/B4DZgdpSOKHwAY-/0/1752844019430?e=1773273600&v=beta&t=jwbZfa0Fp29My2iOpmrjmEagxP5AUK_LUJzU9Vs07qY)
+![Coding Banner](https://www.linkedin.com/in/muhammad-imran-5a9083250/overlay/background-photo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BrDS2IPfMQ3Csj4whBQPYdQ%3D%3D)
 
 ## Full Stack Developer | React Specialist | Data Enthusiast | Freelance Web Engineer
 
