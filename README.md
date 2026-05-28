@@ -24,7 +24,7 @@ imran = {
     "available":  True,
     "focus":      ["Web Apps", "E-Commerce", "Data Analysis"],
     "currently":  "Building full-stack apps · Exploring Node.js",
-    "contact":    "muhammadimran27584@gmail.com"
+    "contact":    "+92 3703027584"
 }
 ```
 
