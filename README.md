@@ -1,5 +1,4 @@
 
-```markdown
 # 👋 Muhammad Imran
 
 **Full Stack Developer** · Freelance · 2023 →  
